@@ -1,0 +1,26 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+.container{
+    width: 800px;
+    padding: 32px 0;
+}
+
+.box{
+    gap: 32px 32px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+    width: 220px;
+    height: 180px;
+    border: solid px black;
+    box-shadow: 2px 2px 8px black;
+}
