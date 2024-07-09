@@ -16,6 +16,7 @@ A partir das propriedades vistas em sala de aula crie os documentos abaixo:
 
 3. Um documento chamado "navbar.html". Seu documento deve ficar similar a imagem abaixo: 
 - Os items "Logo", "Home" etc são links e estão organizados em uma lista. Do lado direito tem um formulário com um botão.
+
 ![modelo 3](https://github.com/matheusrmatiaspos/D1DFE-A3-Layout-Css-Flexbox/assets/161660766/29832cff-f3ee-4ce1-851c-1aa977060566)
 
 ## 📒 Disciplina
